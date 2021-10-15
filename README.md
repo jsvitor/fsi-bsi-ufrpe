@@ -4,15 +4,18 @@
 <details>
     <summary>Detalhes</summary>
 
-### 📑 ATIVIDADE ASSÍNCRONA:
-Desenvolver um mapa conceitual com a temática: Componentes e Recursos dos Sistemas de Informação: Hardware.
-* A atividade poderá ser feita em equipe, com no máximo 3 alunos, sendo livre o aplicativo a ser utilizado, ou mesmo, manuscrito.
-* O mapa será utilizado pela equipe para outra atividade.
-* Bibliografia a critério do aluno ou equipe, como sugestão:
-  
+### 📑 Componentes e Recursos dos Sistemas de Informação: Hardware.
+> Desenvolver um mapa conceitual: 
+> * A atividade poderá ser feita em equipe, com no máximo 3 alunos, sendo livre o aplicativo a ser utilizado, ou mesmo, manuscrito.
+> * O mapa será utilizado pela equipe para outra atividade.
+
+#### Bibliografia a critério do aluno ou equipe, como sugestão:
   - [x] Princípios de Sistemas de Informação - Tradução da 11ª edição da norte-americana Ralph M. Stair | George W. Reynolds.  
   - [ ] O’Brien, James A. Administração de sistemas de informação- 15. ed.  – Porto Alegre : AMGH, 2013.
+  
+  >
   > Estes, entre outros, disponíveis na Minha Biblioteca.
+  >
 
 </details>
 
@@ -25,10 +28,9 @@ Desenvolver um mapa conceitual com a temática: Componentes e Recursos dos Siste
 <summary>Detalhes</summary>
 
   
+### 📑 Componentes e Recursos dos Sistemas de Informação: software.
 
-### 📑 ATIVIDADE ASSÍNCRONA:
-
-> Desenvolver um mapa conceitual com a temática: Componentes e Recursos dos Sistemas de Informação: software.
+> Desenvolver um mapa conceitual
 > * A atividade poderá ser feita em equipe, com no máximo 3 alunos, sendo livre o aplicativo a ser utilizado, ou mesmo, manuscrito.
 > * O mapa será utilizado pela equipe para outra atividade. - A equipe poderá escolher um dos grupos de conteúdo abaixo:
 
@@ -37,8 +39,10 @@ Desenvolver um mapa conceitual com a temática: Componentes e Recursos dos Siste
 - [ ] Saas (Definição) - Pags. (221 a 227)
 - [ ] Saas (Funcionamento) e (software on-premises/ em nuvem) - Pags. (228 a 238)
 
+>
 > #### **Bibliografia**:
 >Infraestrutura de TI / Diego César Batista Mariano... [et al.] ; revisão técnica: >Adriano Vogel e Gisele Lozada. – Porto Alegre : SAGAH, 2020. ISBN 978->65-5690-020-9 1. Informática – Ciência e tecnologia – Infraestrutura – Rede de computadores. I. Mariano, Diego César Batista.
+>
 
 <hr/>
 
