@@ -14,7 +14,36 @@
 > * Apresentar um quadro conceitual focando o conhecimento necessário à utilização eficaz de SI na Organização.
 > * Traçar um referencial teórico que organiza o conhecimento necessário ao gerente usuário de Sistemas de Informação em seis áreas principais: Conceitos Básicos, Tecnologia, Processos de Desenvolvimento, Aplicações Comerciais e Estratégias Gerenciais.
 
-  
+#### 1. Introdução aos Sistemas de Informação nas Empresas  
+
+* A Importância para as Empresas da TIC (Tecnologias de Informação e da Comunicação), Os papéis fundamentais dos SI, A internet e os negócios, Globalização e TIC.
+
+* Fundamentos dos Sistemas de Informação: Conceito de Sistemas, Componentes de um SI, Recursos dos Sistemas de Informação, Atividades dos Sistemas de Informação, Tipos de Sistemas de Informação.
+
+#### 2. Os sistemas de informação para operações das empresas e o comércio eletrônico
+
+* Como as empresas usam Sistemas de informação (SI nos negócios), Integração dos Sistemas de Informações na Empresa, Sistemas de Informação de Marketing, Sistemas de Informação da Produção, Sistemas de Informação de Pessoal (RH), Sistemas de Informação Contábil, Sistemas de Informação Financeira,
+
+* Fundamentos do Comércio Eletrônico: Introdução, Comércio Empresa - Consumidor (B2C), Comércio Empresa-a-Empresa (B2B), Processamento de Transações On-line, Sistemas de Informações Colaborativos, Segurança na Internet.
+
+#### 3. Sistema de Informação Gerencial (SIG) e Sistema de Informação de Apoio à Decisão (SAD)
+
+* Sistemas de Informação Gerencial (principais características), Processamento Analítico On-line (OLAP), Sistemas de Apoio à Decisão, Utilizando SAD’s, Sistemas de Informação Executiva.  
+
+* Tecnologia de Inteligência Artificial (AI) nos Negócios, Domínios da Inteligência Artificial (Ciência Cognitiva, Robótica e Interfaces Naturais – reconhecimento de voz, interfaces multisensoriais, realidade virtual).
+
+#### 4. Sistemas de Informações para Vantagem Competitiva
+
+* Conceitos de Vantagem Estratégica, Papéis Estratégicos para os Sistemas de Informação, Sistemas de Informações Estratégicos.
+
+* Uso estratégico da TIC, Gestão da Qualidade através da TIC, Negócios Virtuais como Vantagem Estratégica, Gestão do Conhecimento, Desafios dos SI Estratégicos
+
+#### 5. Metodologia para Desenvolvimento e Manutenção de Sistemas de Informação
+
+* A Abordagem Sistêmica, O Ciclo de Desenvolvimento de Sistemas, Análise de Sistemas, Projeto de Sistemas, Desenvolvimento pelo Usuário Final, Implantação de Sistemas, Manutenção de Sistemas .
+
+* Implantando a Mudança nas Empresas com a TI, Administrando a Mudança Organizacional, Avaliando Hardware, Software e Serviços.
+
 </details>
 
 
