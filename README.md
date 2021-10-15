@@ -118,9 +118,13 @@ A bibliografia é dada como sugestão, mas, independente da que usarem, especifi
 </details>
 
 
+## 🌵 Sistemas Funcionais de Negócios
+
+## 🏭 Sistemas Integrados Corporativos
+
 * * *
 
-### ERP (Enterprise Resource Planning)
+## ERP (Enterprise Resource Planning)
 <details>
     <summary>Detalhes</summary>
 
