@@ -1,6 +1,6 @@
 # 📈 Fundamentos de Sistemas de Informação
 
-> 💼📂📅📆
+> 💼📂📅📆🧵
 
 <details>
   <summary>Ementa</summary>
@@ -51,7 +51,7 @@
 
 ## 💻 Hardware
 <details>
-    <summary>Detalhes</summary>
+    <summary>🧵 Saiba mais</summary>
 
 ### 📑 Componentes e Recursos dos Sistemas de Informação: Hardware.
 > Desenvolver um mapa conceitual: 
@@ -74,7 +74,7 @@
 
 <details>
 
-<summary>Detalhes</summary>
+<summary>🧵 Saiba mais</summary>
 
   
 ### 📑 Componentes e Recursos dos Sistemas de Informação: software.
@@ -122,13 +122,26 @@ A bibliografia é dada como sugestão, mas, independente da que usarem, especifi
 
 ## 🚗 Sistemas Funcionais de Negócios
 
+<details>
+
+  <summary>🧵 Saiba mais</summary>
+
+</details>
+
+
 ## 🚚 Sistemas Integrados Corporativos
 
-* * *
+<details>
+
+  <summary>🧵 Saiba mais</summary>
+
+</details>
+
+<!-- * * * insere uma linha -->
 
 ## 🏭 ERP (Enterprise Resource Planning)
 <details>
-    <summary>Detalhes</summary>
+    <summary>🧵 Saiba mais</summary>
 
 #### 📑 ATIVIDADE
 > **Considerando que:**  
