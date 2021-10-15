@@ -115,6 +115,34 @@
 A bibliografia é dada como sugestão, mas, independente da que usarem, especifiquem no trabalho.
 
   
-
 </details>
 
+
+* * *
+
+### ERP (Enterprise Resource Planning)
+<details>
+    <summary>Detalhes</summary>
+
+#### 📑 ATIVIDADE
+> **Considerando que:**  
+> - Os Sistemas Integrados de Gestão Organizacional, conhecidos como ERP (_Enterprise Resource Planning),_ e que suas implantações demandam não só mudanças tecnológicas, mas processuais e grande investimentos financeiros, **solicito:**  
+
+***
+  
+- [ ] 1. Efetuar uma pesquisa exploratória das questões envolvidas nas decisões tomadas para a implementar um ERP. Pode ser uma exploração conceitual ou apresentação de um estudo de caso específico em uma organização.  
+
+***
+
+**OU** 
+
+***
+- [ ] 2. Apresentar um ERP já comercialmente utilizado, seus conceitos básicos e das áreas que atendem (normalmente apresentadas por módulos que podem ser implementados gradualmente).  
+***
+
+> **OBSERVAÇÕES:**  
+> - A pesquisa pode ser feita individualmente ou em grupo (não necessariamente os mesmos das atividades passadas).  
+> - Com esta atividade encerramos a 1. VA.  
+> - A pesquisa é exploratória, ainda continuaremos o estudo dos sistemas integrados.
+
+</details>
