@@ -1,5 +1,23 @@
 # Fundamentos de Sistemas de Informação
 
+<details>
+  <summary>Ementa</summary>
+
+
+> Introdução aos sistemas de informação (porque as empresas precisam da TI? os papéis fundamentais dos SI e tipos de SI), Os sistemas de informação para operações das empresas e o comércio eletrônico, Sistema de Informação Gerencial (SIG) e Sistema de Informação de Apoio às Decisões (SAD), Sistemas de Informações para Vantagem Competitiva, Metodologia para Desenvolvimento e Manutenção de Sistemas de Informações.
+
+> ### Objetivo geral
+> Formar um entendimento básico do valor e uso dos sistemas de informação para operações das empresas, a tomada de decisão gerencial e obtenção de vantagem estratégica.
+
+> ### Objetivos específicos
+> * Abordar uma perspectiva teórica e prática dos diversos usos de Sistemas de Informação na empresa e a aplicação de seus princípios ao gerenciamento de negócios
+> * Apresentar um quadro conceitual focando o conhecimento necessário à utilização eficaz de SI na Organização.
+> * Traçar um referencial teórico que organiza o conhecimento necessário ao gerente usuário de Sistemas de Informação em seis áreas principais: Conceitos Básicos, Tecnologia, Processos de Desenvolvimento, Aplicações Comerciais e Estratégias Gerenciais.
+
+  
+</details>
+
+
 ## 💻 Hardware
 <details>
     <summary>Detalhes</summary>
