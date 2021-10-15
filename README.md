@@ -1,6 +1,6 @@
-# 📈 Fundamentos de Sistemas de Informação
+# 🏭 Fundamentos de Sistemas de Informação
 
-> 💼📂📅📆🧵
+
 
 <details>
   <summary>Ementa</summary>
@@ -49,7 +49,7 @@
 </details>
 
 
-## 💻 Hardware
+## Hardware
 <details>
     <summary>🧵 Saiba mais</summary>
 
@@ -70,7 +70,7 @@
 
 
 
-## 👨🏼‍💻 Software
+## Software
 
 <details>
 
@@ -120,7 +120,7 @@ A bibliografia é dada como sugestão, mas, independente da que usarem, especifi
 </details>
 
 
-## 🚗 Sistemas Funcionais de Negócios
+## Sistemas Funcionais de Negócios
 
 <details>
 
@@ -129,7 +129,7 @@ A bibliografia é dada como sugestão, mas, independente da que usarem, especifi
 </details>
 
 
-## 🚚 Sistemas Integrados Corporativos
+## Sistemas Integrados Corporativos
 
 <details>
 
@@ -139,7 +139,7 @@ A bibliografia é dada como sugestão, mas, independente da que usarem, especifi
 
 <!-- * * * insere uma linha -->
 
-## 🏭 ERP (Enterprise Resource Planning)
+## ERP (Enterprise Resource Planning)
 <details>
     <summary>🧵 Saiba mais</summary>
 
