@@ -85,8 +85,8 @@
 
 #### CONTEÚDO 01:
 
-- [ ] Saas (Definição) - Pags. (221 a 227)
-- [ ] Saas (Funcionamento) e (software on-premises/ em nuvem) - Pags. (228 a 238)
+- [ ] Saas (Definição) - Páginas 221 à 227.
+- [ ] Saas (Funcionamento) e (software on-premises/ em nuvem) - Páginas 228 à 238.
 
 >
 > #### **Bibliografia**:
@@ -164,4 +164,18 @@ A bibliografia é dada como sugestão, mas, independente da que usarem, especifi
 > - Com esta atividade encerramos a 1. VA.  
 > - A pesquisa é exploratória, ainda continuaremos o estudo dos sistemas integrados.
 
+</details>
+
+
+## E-business e Comércio Eletrônico
+
+<details>
+  <summary>🧵 Saiba mais</summary>
+  
+
+### E-business e Comércio Eletrônico.
+> #### Leitura das páginas 168 à 197. 
+> Livro (disponível na Minha Biblioteca): 
+> Turban, Efraim. Tecnologia da informação para gestão [recurso eletrônico] : em busca do melhor desempenho estratégico e operacional / Efraim Turban, Linda Volonino ; tradução: Aline Evers ; revisão técnica: Ângela Freitag Brodbeck. – 8. ed. – Dados eletrônicos. – Porto Alegre : Bookman, 2013.
+  
 </details>
