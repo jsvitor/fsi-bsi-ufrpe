@@ -2,8 +2,8 @@
 
 > Introdução aos sistemas de informação (porque as empresas precisam da TI? os papéis fundamentais dos SI e tipos de SI), Os sistemas de informação para operações das empresas e o comércio eletrônico, Sistema de Informação Gerencial (SIG) e Sistema de Informação de Apoio às Decisões (SAD), Sistemas de Informações para Vantagem Competitiva, Metodologia para Desenvolvimento e Manutenção de Sistemas de Informações.
 
-<a href="./mindmaps/fsi-markmap-software.html">Software</a>
-<a href="./mindmaps/fsi-markmap-hardware.html">Hardware</a>
+<a href="https://jsvitor.github.io/fsi-bsi-ufrpe/mindmaps/fsi-markmap-software.html">Software</a>
+
 <details>
   <summary>Ementa</summary>
 
@@ -66,7 +66,7 @@
   > Estes, entre outros, disponíveis na Minha Biblioteca.
   >
 
-#### Mapamental  → [RESUMO](https://github.com/jsvitor/fsi-bsi-ufrpe/blob/main/mindmaps/fsi-markmap.md) | [MARKMAP]()
+#### Mapamental  → [RESUMO](https://github.com/jsvitor/fsi-bsi-ufrpe/blob/main/mindmaps/fsi-markmap.md) | [MARKMAP](https://jsvitor.github.io/fsi-bsi-ufrpe/mindmaps/fsi-markmap-hardware.html)
 
 </details>
 
@@ -113,6 +113,7 @@
 > #### **Bibliografia**:
 > Princípios de Sistemas de Informação, Ralph M. Stair e George W. Reynolds Tradução da 11a edição norte-americana 3a edição Brasileira.
 
+[MAPA MENTAL](https://jsvitor.github.io/fsi-bsi-ufrpe/mindmaps/fsi-markmap-software.html)
 
 <hr/>  
 
